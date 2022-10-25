@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Lemon";
-  src: url("/font/lemonmilk.otf") format("truetype");
+  src: url("/HappyWork/font/lemonmilk.otf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Louis";
-  src: url("/font/louis.ttf") format("truetype");
+  src: url("/HappyWork/font/louis.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
