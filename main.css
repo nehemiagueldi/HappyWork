@@ -65,7 +65,7 @@ body {
   color: white;
   width: 100px;
   margin-left: 10px;
-  
+  transition: .3s;
 }
 
 .btn:hover {
@@ -174,6 +174,7 @@ p{
     border: none;
     /* margin-right: 10%; */
     margin-bottom: 4rem;
+    transition: .3s;
 }
 
 .btnAdd:hover {
@@ -201,6 +202,7 @@ p{
     font-size: 20px;
     border: none;
     margin-bottom: 50px;
+    transition: .3s;
 }
 
 .btnRandom:hover {
@@ -314,7 +316,8 @@ tr, th{
   border-radius: 5px;
   font-family: 'Lemon';
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.25);
- border: none;
+  border: none;
+  transition: .3s;
 }
 
 .deletebutton:hover{
