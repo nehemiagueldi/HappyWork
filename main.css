@@ -87,6 +87,7 @@ body {
 
 .title img {
   max-width: 90%;
+  transition: 0.3s;
 }
 
 .titlemenu{
