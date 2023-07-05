@@ -1,5 +1,5 @@
 ![My Image](HappyWork.png)
-# NG STORE
+# Happy Work
 
 Welcome to HappyWork, a web application built using HTML, CSS, and JavaScript. HappyWork is a Random Name Food Generator with CRUD (Create, Read, Update, Delete) functionality. With this application, you can generate random food dish names from a list of registered dishes or add your own dishes.
 
